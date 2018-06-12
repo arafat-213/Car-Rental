@@ -72,7 +72,7 @@
         <img src="images/logo1.png" alt="Yahan ek logo hua karta tha" style="float: right;">
         <h1 style="font-size: 30pt; font-weight: 800;">caRental</h1>
         <p>Renting cars just became a lot easier <br>Rent cars at rates u cant imagine!!<br> Sign up now to get 10% Cashback</p>
-        <p><a class="btn btn-success btn-lg" role="button" onclick="document.location.href='menu.php'">Buy Now</a></p>
+        <p><a class="btn btn-success btn-lg" role="button" onclick="document.location.href='menu.php'">Book Now</a></p>
       </div>
     </div>
   </div>
